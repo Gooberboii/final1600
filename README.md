@@ -14,9 +14,13 @@ Screw in the standoff screws into the holes that match your motherboard. Take ou
 3. Mount Processor (CPU)
 Find the CPU socket on the motherboard. Lift the latch to open the cover. Holding the CPU **BY ITS SIDES**, line up the notch or triangle on the CPU with the one on the socket. *Gently* place the CPU in the socket and make sure its in place. Then, push down the latch to fasten it in place.
 4. Install CPU Cooler
+If there isn't thermal paste already applied to the CPU or cooler, apply a small amount to the part of the CPU that you can see. After that, Gently align your cooler with the CPU and fix it in place. Finally, put the screws in each of the holes that fasten the cooler to the motherboard.
 5. Install Power Supply (PSU)
+Mount the power supply in the respective spot in your case. Fasten the screws and find the power cables. There are going to be different ends of the cable. The 8-pin connector plugs into the slot for the CPU. The longest connector goes in its respective slot and gives power to the motherboard itself.
 6. Mount Memory (RAM)
+Find the clips on the ends of the RAM slots and press them down. Line up the notches on the RAM with the ones on the RAM slots. Put the RAM in the slot and firmly press down to get the latches to snap back in place. If your motherboard has more than two ram slots, put the RAM sticks in the same colored slots. 
 7. Install Graphics Card
+Remove the expansion covers on the back of the PC, the ones that line up with your PCIe slot. Slot the graphics card in the expansion slot and press down firmly and listen for a click. Then, fasten the screws where you took out the expansion covers and plug in the power supply cables to the power slots.
 8. Mount Storage Drives
 9. Mount Optical Drives
 10. Connect Case Fans
