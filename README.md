@@ -1,6 +1,8 @@
 # How to build a PC
 Author: **Zach Porterfield**
+
 This is a tutorial on how to build a PC. Learning how to build a PC is the best building block in digital systems. 
+
 *This is targeted to people who are getting in to the PC and Digital Systems world and for those who would like to make one for personal use.*
 
 
