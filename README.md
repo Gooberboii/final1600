@@ -22,7 +22,10 @@ Find the clips on the ends of the RAM slots and press them down. Line up the not
 7. Install Graphics Card
 Remove the expansion covers on the back of the PC, the ones that line up with your PCIe slot. Slot the graphics card in the expansion slot and press down firmly and listen for a click. Then, fasten the screws where you took out the expansion covers and plug in the power supply cables to the power slots.
 8. Mount Storage Drives
-9. Mount Optical Drives
-10. Connect Case Fans
-11. Connect Front Panel Connectors
-12. Close Case and Connect Peripherals
+In the case drive bay, fix the drives in place with screws or a mount. Connect the drive(s) to the motherboard with the SATA cables. Connect the power cord to the drive(s) from the power supply.
+9. Connect Case Fans
+Mount any fans that are not already in the case and make sure they are facing the right way depending on airflow. 
+10. Connect Front Panel Connectors
+Find the cabling for the front panel ports. Plug the respective wires on their labeled pins.
+11. Close Case and Connect Peripherals
+Grab the panel that you took off in the beginning and screw it back in place. Connect any peripherals that you have for your PC such as a keyboard, mouse, headset, or mic.
